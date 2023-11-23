@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "651499443104",
+    "project_id": "android-studio-a4089",
+    "storage_bucket": "android-studio-a4089.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:651499443104:android:b740f06f73e64f030c4ac5",
+        "android_client_info": {
+          "package_name": "com.example.lab"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBzpYCZDY5FWWcedBPG8yaCkfs-MiCD3Ao"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
